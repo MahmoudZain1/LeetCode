@@ -1,3 +1,4 @@
+//Find Second Maximum value in an Array
 class Solution4{
     public  void maxmim(int []nums){
     int len = nums.length;
