@@ -1,5 +1,5 @@
 // Find Minimum Operations to Make All Elements Divisible by Three
-class Solution {
+class Solution2 {
     public int minimumOperations(int[] nums) {
         int op = 0;
         for (int num : nums) {
