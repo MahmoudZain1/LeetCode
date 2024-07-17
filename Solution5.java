@@ -1,6 +1,6 @@
 //Sort People by Height 
 import java.util.Arrays;
-class Solution {
+class Solution5 {
     public String[] sortPeople(String[] names, int[] heights) {
         int len_name = names.length; // Get the length of the names array
         int len_hei = heights.length; // Get the length of the heights array
