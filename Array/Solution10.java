@@ -1,3 +1,4 @@
+package Array;
 //Final Value of Variable After Performing Operations
 class Solution10 {
     public int finalValueAfterOperations(String[] operations) {

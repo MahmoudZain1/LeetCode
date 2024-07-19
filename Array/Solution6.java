@@ -1,3 +1,4 @@
+package Array;
 // move Zeroes to end of an Array
 public class Solution6{
     public int[] moveZeroes(int[] nums ){

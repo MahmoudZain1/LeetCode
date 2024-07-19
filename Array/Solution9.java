@@ -1,3 +1,4 @@
+package Array;
 //Number of Good Pairs
 class Solution9 {
     public int numIdenticalPairs(int[] nums) {

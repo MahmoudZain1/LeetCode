@@ -1,3 +1,4 @@
+package Array;
 //How Many Numbers Are Smaller Than the Current Number
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {

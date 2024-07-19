@@ -1,3 +1,4 @@
+package Array;
 // Find Minimum Operations to Make All Elements Divisible by Three
 class Solution2 {
     public int minimumOperations(int[] nums) {
